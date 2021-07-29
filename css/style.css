@@ -1,0 +1,73 @@
+.header-bg {
+  background-color: #264653;
+}
+.btn-custom {
+  background-color: #e76f51;
+}
+.text-bike {
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 72px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+.bike-img {
+  filter: grayscale(100%);
+}
+.header-text {
+  color: #e0e0e0;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.feature-motor {
+  width: 288px;
+  height: 243px;
+}
+
+.fas {
+  color: #e77c40;
+}
+.card-image {
+  width: 149px;
+  height: 149px;
+  top: 40px;
+  margin-top: 10px;
+  align-items: center;
+  padding-left: 5px;
+}
+
+.faq-image {
+  height: 397.5px;
+  width: 424.8000183105469px;
+  left: 6.29998779296875px;
+  top: 14.599998474121094px;
+  border-radius: 0px;
+}
+
+.fot {
+  background-color: #0b0d17;
+}
+.img-fot {
+  height: 80px;
+  width: 120px;
+  left: 1115px;
+  top: 56px;
+  border-radius: 0px;
+}
+
+.car {
+  width: 70%;
+  height: 60%;
+}
+
+.sub {
+  background-color: pink;
+}
